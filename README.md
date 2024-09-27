@@ -2,6 +2,7 @@
 This project showcases an AI-driven SEO landing page built with React, Next.js, Tailwind CSS, and Framer Motion. The page features smooth animations and interactive elements, enhanced by Lottie-animated icons, creating an engaging user experience.
 
 ##Technologies Used
+
 React: For building the user interface components.
 Next.js: For server-side rendering and optimized performance.
 Tailwind CSS: For utility-first CSS styling.
