@@ -3,11 +3,11 @@ This project showcases an AI-driven SEO landing page built with React, Next.js, 
 
 ##Technologies Used
 
-React: For building the user interface components.
-Next.js: For server-side rendering and optimized performance.
-Tailwind CSS: For utility-first CSS styling.
-Framer Motion: For smooth and performant animations.
-Lottie: For rendering animations easily and efficiently.
+React: For building the user interface components. ||
+Next.js: For server-side rendering and optimized performance. ||
+Tailwind CSS: For utility-first CSS styling. ||
+Framer Motion: For smooth and performant animations. ||
+Lottie: For rendering animations easily and efficiently. 
 
 ## Getting Started
 
